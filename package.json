@@ -1,0 +1,12 @@
+{
+  "name": "@jingyoumall/package_example",
+  "version": "1.0.0",
+  "description": "package_example",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "",
+  "license": "ISC",
+  "publishConfig": {"@jingyoumall:registry":"https://npm.pkg.github.com"}
+}
